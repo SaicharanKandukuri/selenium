@@ -1,6 +1,7 @@
 # Selenium
 
 [![CI](https://github.com/SeleniumHQ/selenium/actions/workflows/ci.yml/badge.svg?branch=trunk&event=schedule)](https://github.com/SeleniumHQ/selenium/actions/workflows/ci.yml)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSaicharanKandukuri%2Fselenium.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FSaicharanKandukuri%2Fselenium?ref=badge_shield)
 
 <a href="https://selenium.dev"><img src="https://selenium.dev/images/selenium_logo_square_green.png" width="180" alt="Selenium"/></a>
 
@@ -89,6 +90,9 @@ This script will ensure a complete ready to execute developer environment.
         * Add "startup --output_user_root=C:/tmp" to the file
 
 </details>
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSaicharanKandukuri%2Fselenium.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FSaicharanKandukuri%2Fselenium?ref=badge_large)
 
 ### Alternative Dev Environments
 
